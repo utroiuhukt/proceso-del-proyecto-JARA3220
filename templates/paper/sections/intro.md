@@ -14,7 +14,6 @@
         probabilidad de vida y que los padres y doctores estén de acuerdo<br>
     </h3>
 </label><br><br>
-
     </center>
 </body>
 <!DOCTYPE html>
